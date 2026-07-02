@@ -15,4 +15,4 @@ Designed for desktop view. Not responsive for mobile/tablet.
 - CSS3
 
 ### Live Demo
-[View Live Site](https://parallax-website.netlify.app)
+[View Live Site](https://parallax-scrolling-by-ak.netlify.app/)
